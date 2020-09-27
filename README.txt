@@ -1,0 +1,1 @@
+All Code is self contained in main.ipynb and should be ran from the top!
